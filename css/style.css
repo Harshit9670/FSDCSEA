@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+}
+div{
+    background-color: bisque
+}
+div .container{
+    background-color: rgb(143, 50, 50);
+    height: 400px;
+    border: 2px solid gold;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 300px;
+    padding-top: 100px;
+    padding-left: 100px; 
+}
+div #cont{
+    background-color: green;
+}
+.child1{
+    background-color: blueviolet;
+    border: 1px dotted red;
+    height: 100px;
+    width: 100px;
+}
