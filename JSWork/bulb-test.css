@@ -1,0 +1,15 @@
+.bulb {
+    width: 150px;
+    height: 240px;
+    border-radius: 4px;
+    margin: 10px;
+    display: inline-block;
+    background-image: url(/FSDCSEA/image/bulbimgoff.png); 
+    background-size: cover;
+  }
+  .bulb.on {
+    background-image: url(/FSDCSEA/image/bulbimgon.png);
+  }
+  .container {
+    margin-top: 20px;
+  }
